@@ -38,6 +38,15 @@ Create a **portfolio** that opens doors:
 
 ---
 
+### Self-education
+
+![alt text](./assets/image.png)
+![alt text](./assets/11278926.jpg)
+![alt text](./assets/48447357.jpg)
+![alt text](./assets/33397856.jpg)
+
+---
+
 > 🧠 *"I don't know everything — and that's my superpower. Because I learn faster than others think."*
 
 <div align="center">
