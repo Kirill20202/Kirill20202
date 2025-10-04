@@ -40,10 +40,15 @@
 
 ### Саморазвитие
 
-![alt text](./assets/image.png)
-![alt text](./assets/11278926.jpg)
-![alt text](./assets/48447357.jpg)
-![alt text](./assets/33397856.jpg)
+<div align="center">
+  <!-- First row, a bit chaotic -->
+  <img src="./assets/image.png" alt="Саморазвитие 1" width="210" style="margin: 5px 60px 0 0; vertical-align: middle;">
+  <img src="./assets/11278926.jpg" alt="Саморазвитие 2" width="140" style="margin: -10px 10px 0 30px; vertical-align: top;">
+  <!-- Second row, more chaos -->
+  <br>
+  <img src="./assets/48447357.jpg" alt="Саморазвитие 3" width="170" style="margin: -10 80px 0 10px; vertical-align: bottom;">
+  <img src="./assets/33397856.jpg" alt="Саморазвитие 4" width="120" style="margin: 25px 0 0 50px; vertical-align: text-top;">
+</div>
 
 ---
 
