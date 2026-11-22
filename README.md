@@ -42,7 +42,6 @@
 
 <div align="center">
   <!-- First row, a bit chaotic -->
-  <img src="./assets/image.png" alt="Саморазвитие 1" width="210" style="margin: 5px 60px 0 0; vertical-align: middle;">
   <img src="./assets/11278926.jpg" alt="Саморазвитие 2" width="140" style="margin: -10px 10px 0 30px; vertical-align: top;">
   <!-- Second row, more chaos -->
   <br>
